@@ -1,3 +1,41 @@
+# Introduction
+
+Ce repository vien d'une serie de tutoriels pour creer une REST API avec NestJS et Prisma.
+
+Les technos a aprendre sont:
+
+- NestJS as the backend framework
+- Prisma as the Object-Relational Mapper (ORM)
+- PostgreSQL as the database
+- Swagger as the API documentation tool
+- TypeScript as the programming language
+
+
+# Tutos
+
+Part 1: Building a REST API with NestJS and Prisma
+
+- https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0#technologies-you-will-use
+
+Part 2: Input Validation & Transformation
+
+- https://www.prisma.io/blog/nestjs-prisma-validation-7D056s1kOla1
+
+Part 3: Error Handling
+
+- https://www.prisma.io/blog/nestjs-prisma-error-handling-7D056s1kOop2
+
+Part 4: Handling Relational Data
+
+- https://www.prisma.io/blog/nestjs-prisma-relational-data-7D056s1kOabc
+
+Part 5: Authentication
+
+- https://www.prisma.io/blog/nestjs-prisma-authentication-7D056s1s0k3l
+
+
+# Partie cree automatiquement.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
